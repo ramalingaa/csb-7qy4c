@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5fefbc6c734d3f17bc72ac22260bd866",
+    "revision": "47483948fd6dbf2fb3b66cfc6818d22e",
     "url": "https://ramalingaa.github.io/csb-7qy4c/index.html"
   },
   {
-    "revision": "088b521f3df7dc3a7beb",
+    "revision": "bf77b906d970ceb8887d",
     "url": "https://ramalingaa.github.io/csb-7qy4c/static/css/main.ec89a2b7.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "https://ramalingaa.github.io/csb-7qy4c/static/js/2.8ba1def2.chunk.js"
   },
   {
-    "revision": "088b521f3df7dc3a7beb",
-    "url": "https://ramalingaa.github.io/csb-7qy4c/static/js/main.a500a48b.chunk.js"
+    "revision": "bf77b906d970ceb8887d",
+    "url": "https://ramalingaa.github.io/csb-7qy4c/static/js/main.2c98b9ad.chunk.js"
   },
   {
     "revision": "629e0877d8a1a7b2be3e",
